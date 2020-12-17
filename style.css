@@ -1,0 +1,28 @@
+.m-bio {
+    margin-top: 15px;
+    margin-left: 9.5rem;
+    font-size: 20px;
+    line-height: normal;
+    font-style: italic;
+    color: rgba(255, 193, 5, 0.7);
+}
+.img-border {
+    border-width: 4px !important;
+}
+.footer-text{
+    font-size: 12px;
+    padding: 3px;
+}
+.article-content{
+    margin: 0;
+    padding: 30px 0px;
+    font-size: 18px;;
+}
+.comment-card{
+    padding: 20px 0 20px;
+    border-bottom: 1px solid #ffc107;
+}
+.img-size{
+    height: 80px;
+    width: 80px;
+}
